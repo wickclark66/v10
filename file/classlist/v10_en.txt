@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "name": "4K",
+      "id": 31,
+      "isclass": 0
+    },
+    {
+      "name": "DB",
+      "id": 37
+    },
+    {
+      "name": "Film",
+      "id": 14,
+      "isclass": 1
+    },
+    {
+      "name": "Drama",
+      "id": 13,
+      "isclass": 1
+    },
+    {
+      "name": "Variety",
+      "id": 15,
+      "isclass": 1
+    },
+    {
+      "name": "Comic",
+      "id": 25,
+      "isclass": 1
+    },
+    {
+      "name": "Child",
+      "id": 16,
+      "isclass": 1
+    },
+    {
+      "name": "Shorts",
+      "id": 39,
+      "isclass": 1
+    },
+    {
+      "name": "Sport",
+      "id": 17,
+      "isclass": 1
+    }
+  ],
+  "msg": "success"
+}

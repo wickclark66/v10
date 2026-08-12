@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "name": "4K",
+      "id": 31,
+      "isclass": 0
+    },
+    {
+      "name": "DB",
+      "id": 37
+    },
+    {
+      "name": "電影",
+      "id": 14,
+      "isclass": 1
+    },
+    {
+      "name": "電視劇",
+      "id": 13,
+      "isclass": 1
+    },
+    {
+      "name": "綜藝",
+      "id": 15,
+      "isclass": 1
+    },
+    {
+      "name": "動漫",
+      "id": 25,
+      "isclass": 1
+    },
+    {
+      "name": "少兒",
+      "id": 16,
+      "isclass": 1
+    },
+    {
+      "name": "短劇",
+      "id": 39,
+      "isclass": 1
+    },
+    {
+      "name": "體育",
+      "id": 17,
+      "isclass": 1
+    }
+  ],
+  "msg": "success"
+}
